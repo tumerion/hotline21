@@ -117,7 +117,81 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":19,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"2\u00e8me \u00e9tage",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":108,
+                 "x":1604.66666666667,
+                 "y":2725.16666666667
+                }, 
+                {
+                 "height":19,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ff0000",
+                     "fontfamily":"MS Shell Dlg 2",
+                     "text":"<-- Hotline",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":108,
+                 "x":1299.33333333333,
+                 "y":2932.5
+                }, 
+                {
+                 "height":19,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ff0000",
+                     "fontfamily":"MS Shell Dlg 2",
+                     "text":"SI_M\u00e9tiers -->",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":126,
+                 "x":1590.66666666667,
+                 "y":2931.83333333333
+                }, 
+                {
+                 "height":19,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ff0000",
+                     "fontfamily":"MS Shell Dlg 2",
+                     "text":"Rel.Usagers -->",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":153,
+                 "x":1441,
+                 "y":2439.5
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -143,7 +217,7 @@
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":1,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
