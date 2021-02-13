@@ -293,19 +293,7 @@
          "draworder":"topdown",
          "id":5,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "height":0,
-                 "id":1,
-                 "name":"computer",
-                 "point":true,
-                 "rotation":0,
-                 "type":"computer",
-                 "visible":true,
-                 "width":0,
-                 "x":930.666666666667,
-                 "y":594.666666666666
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
